@@ -10,6 +10,7 @@ from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 from dotenv import load_dotenv
 
+
 # Load environment variables
 load_dotenv()
 api_key = os.getenv("GOOGLE_API_KEY")
