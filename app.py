@@ -11,7 +11,7 @@ def get_base64_of_file(file_path):
         return base64.b64encode(file.read()).decode()
 
 # Specify the correct path to your GIF file
-file_path = "animated.gif"  # Adjust this path as needed
+file_path = "images/animated.gif"  # Adjust this path as needed
 gif_base64 = get_base64_of_file(file_path)
 
 # Streamlit app code
