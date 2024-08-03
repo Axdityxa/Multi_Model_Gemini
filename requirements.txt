@@ -1,0 +1,12 @@
+streamlit==1.25.0
+google-generativeai
+python-dotenv
+langchain==0.0.217
+PyPDF2
+chromadb
+pdf2image
+faiss-cpu==1.7.4
+langchain_google_genai
+pdfminer.six==20221105
+numpy==1.23.4
+scipy==1.9.3
