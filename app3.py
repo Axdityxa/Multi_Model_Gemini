@@ -20,7 +20,7 @@ def get_gemini_response(question):
 
 # Main function for app3
 def app3_main():
-    st.header("Gemini Q&A Application")
+    st.header("Ask Me Anything🫂")
 
     # Initialize session state for chat history if not already present
     if 'chat_history' not in st.session_state:

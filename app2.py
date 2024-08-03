@@ -32,7 +32,7 @@ def input_image_setup(uploaded_file):
 
 # Main function for app2
 def app2_main():
-    st.header("Gemini LIM")
+    st.header("Image Insight🔍")
 
     # Input text prompt
     input_text = st.text_input("Input Prompt: ", key="input_app2")
