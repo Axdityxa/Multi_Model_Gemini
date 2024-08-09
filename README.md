@@ -31,5 +31,13 @@ Make sure you have the following installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/multi-model-vision.git
+git clone https://github.com/Axdityxa/Multi_Model_Gemini.git
 cd multi-model-vision
+```
+### Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+### Run the App:
+```bash
+streamlit run app.py
