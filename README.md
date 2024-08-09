@@ -4,15 +4,15 @@ This repository hosts a multi-model AI platform built with Streamlit. The platfo
 
 ## Features
 
-- **App 1:** Description of the first AI model or application.
-- **App 2:** Description of the second AI model or application.
-- **App 3:** Description of the third AI model or application.
+- **App 1:** ATS Tracking System.
+- **App 2:** Image Analyzer.
+- **App 3:** Q&A Application.
 
 ## Live Demo
 
 You can access the live demo of the application here:
 
-[![Demo]([https://img.shields.io/badge/Streamlit-Demo-brightgreen?logo=streamlit&style=for-the-badge)](https://multi-model-vision.streamlit.app/](https://multi-model-vision.streamlit.app/)
+[![Demo](https://img.shields.io/badge/Streamlit-Demo-brightgreen?logo=streamlit&style=for-the-badge)](https://multi-model-vision.streamlit.app/)
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ Follow these steps to set up the project locally:
 
 Make sure you have the following installed:
 
-- Python 3.7 or higher
+- Python 3.10
 - Pip (Python package installer)
 - Git (optional, but recommended)
 
